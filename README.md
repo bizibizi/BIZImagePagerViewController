@@ -11,7 +11,7 @@ BIZImagePagerViewController is a handy image viewer, can be used with few images
 # Installation
 
 ### Manually
-- Copy ```Class``` folder to your project 
+- Copy ```Classes``` folder to your project 
 
 ### From CocoaPods:
 ```objective-c
